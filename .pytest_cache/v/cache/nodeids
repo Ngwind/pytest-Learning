@@ -1,4 +1,3 @@
 [
-  "test_class.py::TestClass::test_func1",
-  "test_class.py::TestClass::test_func2"
+  "test_rename.py::test_func"
 ]
