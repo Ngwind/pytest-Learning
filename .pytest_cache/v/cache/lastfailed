@@ -1,7 +1,4 @@
 {
-  "test_autouse.py::test_func1": true,
-  "test_fixture.py::test_func": true,
-  "test_fixture.py::test_func2": true,
-  "test_usefixtures.py": true,
-  "test_usefixtures.py::TestClass1": true
+  "": true,
+  "test_tmpdir.py::test_needfiles": true
 }
